@@ -108,7 +108,7 @@ Foods
 
         <div class="card">
 
-            <img src="images/burgar.jpg" alt="برجر لحم" >
+            <img src="c:\Users\ABH\Downloads\index html\images\burgar.jpg" >
             <h3>برجر لحم</h3>
             <p class="price">25 ريال</p>
             <button>اطلب الآن</button>
